@@ -25,7 +25,7 @@
 <meta property="og:url" content="https://deeplyrootedwildlyfree.com/"/>
 <meta property="og:title" content="Deeply Rooted Wildly Free Retreats | Girls Trips & Women's Getaways"/>
 <meta property="og:description" content="We plan girls weekends, women's retreats, wellness escapes, and corporate leadership retreats that feel made for each of you. Every detail handled. You just show up."/>
-<meta property="og:image" content="https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=1200&q=80"/>
+<meta property="og:image" content="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80"/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/>
 <meta property="og:image:alt" content="Women laughing together on a girls retreat planned by Deeply Rooted Wildly Free Retreats"/>
@@ -38,7 +38,7 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:title" content="Deeply Rooted Wildly Free Retreats | Girls Trips & Women's Getaways"/>
 <meta name="twitter:description" content="Girls weekends, wellness retreats, leadership getaways — every detail planned for you. You just show up wildly free."/>
-<meta name="twitter:image" content="https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=1200&q=80"/>
+<meta name="twitter:image" content="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- SCHEMA MARKUP — LOCAL BUSINESS + TRAVEL AGENCY              -->
@@ -170,7 +170,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link rel="preconnect" href="https://images.unsplash.com"/>
-<link rel="preload" as="image" href="https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=900&q=80"/>
+<link rel="preload" as="image" href="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80"/>
 <meta name="theme-color" content="#2D4A3E"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -319,7 +319,7 @@
   /* Full bleed photo behind everything */
   .hero-photo-main {
     position:absolute; inset:0;
-    background: url('https://images.unsplash.com/photo-1529543544282-ea669407fca3?w=900&q=80') center center/cover no-repeat;
+    background: url('https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=900&q=80') center center/cover no-repeat;
     z-index:0;
   }
   /* Dark green overlay so text stays readable */
@@ -536,17 +536,17 @@
   .exp-card:hover .exp-desc { max-height:80px; }
   .exp-from { font-size:11px; color:var(--blush); margin-top:10px; font-weight:600; letter-spacing:0.05em; }
   /* women at winery */
-  .eb1{background:url('https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=600&q=80') center/cover;}
+  .eb1{background:url('https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&q=80') center/cover;}
   /* women on tropical beach */
-  .eb2{background:url('https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80') center/cover;}
+  .eb2{background:url('https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=600&q=80') center/cover;}
   /* women yoga wellness */
-  .eb3{background:url('https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80') center/cover;}
+  .eb3{background:url('https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80') center/cover;}
   /* women at beach laughing */
-  .eb4{background:url('https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=600&q=80') center/cover;}
+  .eb4{background:url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80') center/cover;}
   /* women friends dining */
-  .eb5{background:url('https://images.unsplash.com/photo-1529543544282-ea669407fca3?w=600&q=80') center/cover;}
+  .eb5{background:url('https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80') center/cover;}
   /* women hiking */
-  .eb6{background:url('https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&q=80') center/cover;}
+  .eb6{background:url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80') center/cover;}
 
   /* ─── SERVICES ─── */
   .services { background:var(--petal); }
@@ -601,13 +601,13 @@
   .db-asheville   {background:url('https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c?w=600&q=80') center/cover;}
   .db-obx         {background:url('https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80') center/cover;}
   .db-brevard     {background:url('https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80') center/cover;}
-  .db-boone       {background:url('https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&q=80') center/cover;}
+  .db-boone       {background:url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80') center/cover;}
   .db-wilmington  {background:url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80') center/cover;}
   /* SC */
   .db-charleston  {background:url('https://images.unsplash.com/photo-1558618047-3c8d4df6b4a7?w=600&q=80') center/cover;}
   .db-beaufort    {background:url('https://images.unsplash.com/photo-1563906267088-b029e7101114?w=600&q=80') center/cover;}
   .db-greenville  {background:url('https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80') center/cover;}
-  .db-pawleys     {background:url('https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=600&q=80') center/cover;}
+  .db-pawleys     {background:url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80') center/cover;}
   /* GA */
   .db-savannah    {background:url('https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80') center/cover;}
   .db-helen       {background:url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80') center/cover;}
@@ -656,7 +656,7 @@
   /* Helen GA alpine village */
   .db14{background:url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80') center/cover;}
   /* Blowing Rock NC */
-  .db15{background:url('https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&q=80') center/cover;}
+  .db15{background:url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80') center/cover;}
   /* Brevard NC waterfalls */
   .db16{background:url('https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c?w=600&q=80') center/cover;}
   /* Natchez MS antebellum */
@@ -775,17 +775,17 @@
   .pin:hover { transform:scale(1.04); }
   .pin-img { aspect-ratio:3/4; position:relative; }
   /* women wine country */
-  .pi1{background:url('https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=400&q=80') center/cover;}
+  .pi1{background:url('https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&q=80') center/cover;}
   /* women beach house */
-  .pi2{background:url('https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=400&q=80') center/cover;}
+  .pi2{background:url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=80') center/cover;}
   /* women spa wellness */
   .pi3{background:url('https://images.unsplash.com/photo-1552693673-1bf958298935?w=400&q=80') center/cover;}
   /* women mountain hike */
-  .pi4{background:url('https://images.unsplash.com/photo-1551632811-561732d1e306?w=400&q=80') center/cover;}
+  .pi4{background:url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400&q=80') center/cover;}
   /* women caribbean boat */
-  .pi5{background:url('https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=400&q=80') center/cover;}
+  .pi5{background:url('https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=400&q=80') center/cover;}
   /* women bonfire gathering */
-  .pi6{background:url('https://images.unsplash.com/photo-1529543544282-ea669407fca3?w=400&q=80') center/cover;}
+  .pi6{background:url('https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80') center/cover;}
   .pin-lbl {
     position:absolute; bottom:0; left:0; right:0;
     background:rgba(30,42,36,0.75); backdrop-filter:blur(4px);
@@ -947,19 +947,19 @@
     <div class="hero-photo-grid">
       <!-- tall left: women laughing at beach -->
       <div class="hero-photo-tile hpt-tall">
-        <img src="https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=600&q=80" alt="Women friends laughing at the beach" />
+        <img src="https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=600&q=80" alt="Women friends laughing at the beach" />
       </div>
       <!-- top right: women wine tasting -->
       <div class="hero-photo-tile">
-        <img src="https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=600&q=80" alt="Women enjoying wine country getaway" />
+        <img src="https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&q=80" alt="Women enjoying wine country getaway" />
       </div>
       <!-- middle right: women wellness retreat -->
       <div class="hero-photo-tile">
-        <img src="https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80" alt="Women wellness retreat yoga" />
+        <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80" alt="Women wellness retreat yoga" />
       </div>
       <!-- bottom wide: women hiking mountains -->
       <div class="hero-photo-tile hpt-wide">
-        <img src="https://images.unsplash.com/photo-1551632811-561732d1e306?w=900&q=80" alt="Women hiking on mountain retreat" />
+        <img src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=900&q=80" alt="Women hiking on mountain retreat" />
       </div>
     </div>
     <!-- overlay tint -->
