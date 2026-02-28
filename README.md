@@ -1726,7 +1726,7 @@
     <input type="text" id="adm-user" placeholder="Username" />
     <input type="password" id="adm-pass" placeholder="Password" />
     <button class="login-btn" onclick="doLogin()">Sign In ✦</button>
-    <div class="login-err" id="login-err">Incorrect credentials. Try admin / deeplyrooted</div>
+    <div class="login-err" id="login-err">Incorrect credentials. Please try again.</div>
     <span class="cancel-link" onclick="closeAdmin()">Cancel</span>
   </div>
 
@@ -2251,7 +2251,7 @@
   }
 
   /* ─── ADMIN LOGIN ─── */
-  let adminPass = 'deeplyrooted';
+  let adminPass = 'Link2026$-LKN#';
   function openAdmin() {
     seedData();
     document.getElementById('admin-overlay').classList.add('open');
